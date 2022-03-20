@@ -4,7 +4,7 @@
 > A simple website about Batman and why he is my favorite superhero.
 
 ## Table of contents
-- [](#)
+- [Batman is my superhero](#)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -26,7 +26,7 @@ A simple website build using `CSS` and `HTML` , the goal is learning development
 ## Technologies
 * HTML
 * CSS
-* VSC code
+* VS code
 
 
 ## Setup
@@ -98,7 +98,7 @@ Project is: _in progress_
 
 
 ## Contact
-By [HYF-team] 
+By [@HYF-team](https://github.com/lab-brussels-1) 
 
 
 

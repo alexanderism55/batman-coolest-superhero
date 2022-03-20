@@ -6,13 +6,13 @@
 
 - **Home Page**
   - As a user I can read the title of the page
-    - [ ] _there is a prominent title at the top of the web page_
+    - [x] _there is a prominent title at the top of the web page_
   - As a user I can read why Batman is the best superhero
-    - [ ] _there is a content explains why Batman is the best superhero_
+    - [x] _there is a content explains why Batman is the best superhero_
   - As a user I can see an image of Batman
-    - [ ] _there is a image of Batman_ 
+    - [x] _there is a image of Batman_ 
   - As a user I can know when the website is created and information about the author_
-    - [ ] _there is info about the website creation date and info about the author_  
+    - [x] _there is info about the website creation date and info about the author_  
 
 ## Should Haves
 

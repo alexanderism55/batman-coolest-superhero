@@ -2,7 +2,7 @@
 
 <!-- some introduction -->
 
-The project objective : is to explain to users why `Batman` is the best superhero.
+The project objective : is to explain to user why `Batman` is the best superhero.
 
 ---
 

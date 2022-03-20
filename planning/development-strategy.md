@@ -8,10 +8,10 @@ A simple little website about `Batman`.
 
 ## Setup
 
-- [ ] Boilerplate HTML file
-- [ ] Page title in the HTML file
-- [ ] empty CSS file
-- [ ] CSS file is linked to HTML
+- [x] Boilerplate HTML file
+- [x] Page title in the HTML file
+- [x] empty CSS file
+- [x] CSS file is linked to HTML
 
 ---
 
@@ -27,7 +27,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 <!-- acceptance criteria -->
 
-- [ ] _there is a prominent title at the top of the web page_
+- [x] _there is a prominent title at the top of the web page_
 
 <!-- code you think you will need -->
 
@@ -47,7 +47,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 It should be clear about why Batman is my favorite superhero.
 
-- [ ] _there is a content explains why Batman is the best superhero_
+- [x] _there is a content explains why Batman is the best superhero_
 
 ### Content: HTML
 
@@ -65,7 +65,7 @@ It should be clear about why Batman is my favorite superhero.
 
 There should be an image of Batman.
 
-- [ ] _there is an image of Batman_
+- [x] _there is an image of Batman_
 
 ### Images: HTML
 
@@ -85,7 +85,7 @@ There should be an image of Batman.
 
 Some info about the creation of the website date and reserver right.
 
-- [ ] _there is info about the date which the website is created  and reserved right_
+- [x] _there is info about the date which the website is created  and reserved right_
 
 ### Footer: HTML
 
